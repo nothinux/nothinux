@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Taufik Mulyana
-
-I’m a GNU/Linux Enthusiast
+Currently work as Operation Engineer @ Dicoding. Interested in Linux, Go, and Cloud Native Technology.
 
 ---
 ### :zap: Recent Activity
