@@ -7,4 +7,10 @@ In my spare time i like writing, contribute to OSS and learn new thing
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1297](https://github.com/aquasecurity/trivy/issues/1297) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. 🗣 Commented on [#1023](https://github.com/aquasecurity/kube-bench/issues/1023) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
+3. 🗣 Commented on [#1166](https://github.com/aquasecurity/trivy/issues/1166) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+4. 💪 Opened PR [#1297](https://github.com/aquasecurity/trivy/pull/1297) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+5. 💪 Opened PR [#1023](https://github.com/aquasecurity/kube-bench/pull/1023) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
+<!--END_SECTION:activity-->
 
