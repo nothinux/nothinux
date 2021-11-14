@@ -7,10 +7,10 @@ In my spare time i like writing, contribute to OSS and learn new thing
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1297](https://github.com/aquasecurity/trivy/issues/1297) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. 🗣 Commented on [#1023](https://github.com/aquasecurity/kube-bench/issues/1023) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
-3. 🗣 Commented on [#1166](https://github.com/aquasecurity/trivy/issues/1166) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 💪 Opened PR [#1297](https://github.com/aquasecurity/trivy/pull/1297) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. 💪 Opened PR [#1023](https://github.com/aquasecurity/kube-bench/pull/1023) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
+1. 🎉 Merged PR [#1](https://github.com/nothinux/go-ps/pull/1) in [nothinux/go-ps](https://github.com/nothinux/go-ps)
+2. 💪 Opened PR [#1](https://github.com/nothinux/go-ps/pull/1) in [nothinux/go-ps](https://github.com/nothinux/go-ps)
+3. 🗣 Commented on [#1297](https://github.com/aquasecurity/trivy/issues/1297) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+4. 🗣 Commented on [#1023](https://github.com/aquasecurity/kube-bench/issues/1023) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
+5. 🗣 Commented on [#1166](https://github.com/aquasecurity/trivy/issues/1166) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 <!--END_SECTION:activity-->
 
