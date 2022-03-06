@@ -4,5 +4,5 @@ Currently focus learning about Distributed System, Go, and Cloud Native Ecosyste
 In my spare time i like writing, contribute to OSS and learn new things  
 
 ---
-
-
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
