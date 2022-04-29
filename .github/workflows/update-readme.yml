@@ -11,4 +11,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: docker://nothinux/github-pr:v0
+
+      - name: update readme
+        run: |
+          bin/github-pr README.md
+	        git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+	        git config --global user.name readme-bot
+	        git add README.md
+	        git commit -m "update readme"
+	        git push

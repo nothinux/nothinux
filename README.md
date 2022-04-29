@@ -3,6 +3,6 @@ Interested in Linux and Go.
 
 ---
 
-#### :zap: Recent Activity
+#### :zap: Recent Contribution Activity
 <!--START:pr-activity-->
 <!--END:pr-activity-->
