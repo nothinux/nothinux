@@ -7,7 +7,7 @@ Interested in Linux, Go, and Distributed System.
 - :lock: [certify](https://github.com/nothinux/certify) create private CA and issue certificates without hassle 
 - :penguin: [go-ps](https://github.com/nothinux/go-ps) find, list, and get information from process in linux with Go  
 
-#### :zap: Recent Contribution Activity
+#### :zap: Recent contribution activity
 <!--START:pr-activity-->
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) :sparkles: [#1297 feat(cache): redis TLS support](https://github.com/aquasecurity/trivy/pull/1297)  
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) :sparkles: [#1074 Read response from http2 or http3](https://github.com/projectdiscovery/nuclei/pull/1074)  
