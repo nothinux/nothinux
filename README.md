@@ -1,13 +1,16 @@
-### Hi there 👋, I'm Taufik Mulyana
-Interested in Linux and Go.
+### 👋 Hi there, I'm Taufik Mulyana
+Infrastructure Engineer • SRE.  
+Interested in Linux, Go, and Distributed System. 
 
----
+
+#### :seedling: My latest projects
+- :lock: [certify](https://github.com/nothinux/certify) create private CA and issue certificates without hassle 
+- :penguin: [go-ps](https://github.com/nothinux/go-ps) find, list, and get information from process in linux with Go  
 
 #### :zap: Recent Contribution Activity
 <!--START:pr-activity-->
-1. 🎉 Merged PR [#1 add more function](https://github.com/nothinux/go-ps/pull/1) in [nothinux/go-ps](https://github.com/nothinux/go-ps)
-2. 🎉 Merged PR [#2 feat(ca): generate and sign cert with intermediate ca](https://github.com/nothinux/certify/pull/2) in [nothinux/certify](https://github.com/nothinux/certify)
-3. 🎉 Merged PR [#1297 feat(cache): redis TLS support](https://github.com/aquasecurity/trivy/pull/1297) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 🎉 Merged PR [#1074 Read response from http2 or http3](https://github.com/projectdiscovery/nuclei/pull/1074) in [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-5. 🎉 Merged PR [#77 Json output support](https://github.com/projectdiscovery/shuffledns/pull/77) in [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) :sparkles: [#1297 feat(cache): redis TLS support](https://github.com/aquasecurity/trivy/pull/1297)  
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) :sparkles: [#1074 Read response from http2 or http3](https://github.com/projectdiscovery/nuclei/pull/1074)  
+- [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) :sparkles: [#77 Json output support](https://github.com/projectdiscovery/shuffledns/pull/77)  
+- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) :sparkles: [#166 Support Nginx v1.20.0 and v.1.20.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/166)  
 <!--END:pr-activity-->
