@@ -10,10 +10,10 @@ Interested in Linux, Go, and Distributed System.
 
 #### :zap: Recent contribution activity
 <!--START:pr-activity-->
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) :sparkles: [#3054 Add support to query DNS TLSA record](https://github.com/projectdiscovery/nuclei/pull/3054)  
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) :sparkles: [#1297 feat(cache): redis TLS support](https://github.com/aquasecurity/trivy/pull/1297)  
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) :sparkles: [#1074 Read response from http2 or http3](https://github.com/projectdiscovery/nuclei/pull/1074)  
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) :sparkles: [#77 Json output support](https://github.com/projectdiscovery/shuffledns/pull/77)  
-- [opentracing-contrib/nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) :sparkles: [#166 Support Nginx v1.20.0 and v.1.20.1](https://github.com/opentracing-contrib/nginx-opentracing/pull/166)  
 <!--END:pr-activity-->
 
 #### :mailbox: How to reach me
