@@ -6,7 +6,8 @@ Interested in Linux, Go, and Distributed System.
 #### :seedling: My latest projects
 - :lock: [certify](https://github.com/nothinux/certify) create private CA and issue certificates without hassle 
 - :penguin: [go-ps](https://github.com/nothinux/go-ps) find, list, and get information from process in linux with Go  
-- :octopus: [octo-proxy](https://github.com/nothinux/octo-proxy) Simple TCP/TLS Proxy support mutual authentication and traffic mirroring   
+- :octopus: [octo-proxy](https://github.com/nothinux/octo-proxy) Simple TCP/TLS Proxy support mutual authentication and traffic mirroring 
+- :crab: [kube-resource-status](https://github.com/nothinux/kube-resource-status/) tool that provide kubernetes cluster resource information, including cpu, memory, storage and pods.  
 
 #### :zap: Recent contribution activity
 <!--START:pr-activity-->
