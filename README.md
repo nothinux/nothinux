@@ -11,10 +11,10 @@ Interested in Linux, Go, and Distributed System.
 
 #### :zap: Recent contribution activity
 <!--START:pr-activity-->
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) :sparkles: [#8442 increase maintenance exclusion limit to 20](https://github.com/GoogleCloudPlatform/magic-modules/pull/8442)  
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) :sparkles: [#3054 Add support to query DNS TLSA record](https://github.com/projectdiscovery/nuclei/pull/3054)  
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) :sparkles: [#1297 feat(cache): redis TLS support](https://github.com/aquasecurity/trivy/pull/1297)  
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) :sparkles: [#1074 Read response from http2 or http3](https://github.com/projectdiscovery/nuclei/pull/1074)  
-- [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) :sparkles: [#77 Json output support](https://github.com/projectdiscovery/shuffledns/pull/77)  
 <!--END:pr-activity-->
 
 #### :mailbox: How to reach me
